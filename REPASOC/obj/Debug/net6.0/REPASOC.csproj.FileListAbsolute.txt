@@ -1,0 +1,14 @@
+C:\Users\csi23-dmunnco\source\repos\REPASOC\obj\Debug\net6.0\REPASOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\REPASOC\obj\Debug\net6.0\REPASOC.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\REPASOC\obj\Debug\net6.0\REPASOC.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\REPASOC\obj\Debug\net6.0\REPASOC.csproj.CoreCompileInputs.cache
+C:\Users\csi23-dmunnco\source\repos\REPASOC\bin\Debug\net6.0\REPASOC.exe
+C:\Users\csi23-dmunnco\source\repos\REPASOC\bin\Debug\net6.0\REPASOC.deps.json
+C:\Users\csi23-dmunnco\source\repos\REPASOC\bin\Debug\net6.0\REPASOC.runtimeconfig.json
+C:\Users\csi23-dmunnco\source\repos\REPASOC\bin\Debug\net6.0\REPASOC.dll
+C:\Users\csi23-dmunnco\source\repos\REPASOC\bin\Debug\net6.0\REPASOC.pdb
+C:\Users\csi23-dmunnco\source\repos\REPASOC\obj\Debug\net6.0\REPASOC.dll
+C:\Users\csi23-dmunnco\source\repos\REPASOC\obj\Debug\net6.0\refint\REPASOC.dll
+C:\Users\csi23-dmunnco\source\repos\REPASOC\obj\Debug\net6.0\REPASOC.pdb
+C:\Users\csi23-dmunnco\source\repos\REPASOC\obj\Debug\net6.0\REPASOC.genruntimeconfig.cache
+C:\Users\csi23-dmunnco\source\repos\REPASOC\obj\Debug\net6.0\ref\REPASOC.dll
